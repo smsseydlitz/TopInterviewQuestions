@@ -1,0 +1,1 @@
+Here is my project, to develop my programming skills with Type Python. Here I will solve the most common Algorithmic Problems. I'll make it in a structured way so that any Person who is interesed in it could solve them.  
